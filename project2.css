@@ -1,0 +1,28 @@
+body {
+    background-image: url(OIP.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1,h2,h3 {
+    text-align: center;
+    color: hwb(187 5% 11%);
+}
+p {
+    color: #000000b8;
+}
+a {
+    color: #070b54;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    list-style-type: square;
+    color: #56105f;
+}
+ol{
+    color: #56105f;
+}
